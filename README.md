@@ -16,5 +16,16 @@ TEAM MEMBERS - RASHI JAIN (LEADER)
              - MANAV GANDHI
              - DISHANT SHARMA
              
- TEAM MENTOR - MR. DEEPAK SHARMA            
+ TEAM MENTOR - MR. DEEPAK SHARMA    
+ 
+ # Important websites for reference - 
+ - https://www.earthdata.nasa.gov/
+ - http://ftp.aiub.unibe.ch/ionex/draft/ionex11.pdf
+ - https://wdc.kugi.kyoto-u.ac.jp/dstdir/index.html      (Geomagnetic Equatorial Dst index Home Page)
+ - https://sidc.be/silso/datafiles
+ 
+ # Gopi Seemala
+ Application used to convert GPS-TEC data from the RINEX 2.1 & RINEX 3.02 observation files. 
+ LINK - https://seemala.blogspot.com/
+ 
              
