@@ -9,12 +9,13 @@ PROBLEM STATEMENT - Prediction of TEC Variations with Artificial Intelligence us
 
 ORGANISATION : Department of Space, Indian Space Research Organisation (ISRO).
 
-TEAM MEMBERS - RASHI JAIN (LEADER)
-             - HITESH KUMAR
-             - AIKEJ PATHANIA
-             - PRIYANSH BHARDWAJ 
-             - MANAV GANDHI
-             - DISHANT SHARMA
+TEAM MEMBERS 
+- RASHI JAIN (LEADER)
+- HITESH KUMAR
+- AIKEJ PATHANIA
+- PRIYANSH BHARDWAJ 
+- MANAV GANDHI
+- DISHANT SHARMA
              
  TEAM MENTOR - MR. DEEPAK SHARMA    
  
